@@ -1,0 +1,70 @@
+{
+  "slug": "color-drop",
+  "url": "https://nanalab.kr/color-drop/",
+  "titles": {
+    "ko": "하나만 다른 색, 끝까지 찾아낼 수 있을까?",
+    "en": "Can you find the different color all the way to the end?",
+    "zh": "你能一直找出那块不同的颜色吗？",
+    "es": "¿Puedes encontrar el color diferente hasta el final?"
+  },
+  "descriptions": {
+    "ko": "혼자 즐기고 나만의 결과를 공유하는 작은 게임.",
+    "en": "A small solo game. Play, discover your result, and share.",
+    "zh": "独自挑战，看看自己的成绩，再分享给朋友。",
+    "es": "Un juego para ti. Descubre tu resultado y compártelo."
+  },
+  "color": "#9a4b56",
+  "cardLines": {
+    "ko": [
+      "거의 같은 16개의 색.",
+      "다른 하나를 찾아라."
+    ],
+    "en": [
+      "Sixteen shades.",
+      "Find the different one."
+    ],
+    "zh": [
+      "十六块相近的颜色。",
+      "找出不同的那一块。"
+    ],
+    "es": [
+      "Dieciséis tonos.",
+      "Encuentra el diferente."
+    ]
+  },
+  "brands": {
+    "ko": "색 한 방울 감별사",
+    "en": "One Different Color",
+    "zh": "一滴颜色鉴别师",
+    "es": "Una gota de color"
+  },
+  "hero": {
+    "en": {
+      "first": "One color is different.",
+      "last": "Can you spot it every time?",
+      "intro": [
+        "Sixteen tiles. Only one stands out.",
+        "How far can you get in 45 seconds?",
+        "The color difference gets smaller each round."
+      ]
+    },
+    "zh": {
+      "first": "只有一块颜色不同，",
+      "last": "你能一直找出来吗？",
+      "intro": [
+        "十六块色块，只有一块不同。",
+        "四十五秒内，你能闯到第几关？",
+        "越往后，色差越小。"
+      ]
+    },
+    "es": {
+      "first": "Un color es diferente.",
+      "last": "¿Puedes encontrarlo siempre?",
+      "intro": [
+        "Dieciséis casillas. Solo una es distinta.",
+        "¿Hasta dónde llegas en 45 segundos?",
+        "La diferencia se reduce en cada nivel."
+      ]
+    }
+  }
+}
